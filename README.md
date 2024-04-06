@@ -1,4 +1,4 @@
-# mailchimp-lead-gen-page
+# auto-leadgen
 
 This is my Hands-on Learner Project for Coursera Certificate Course "Create a Professional Automated Landing page using Mailchimp" that I've finished last October 12, 2023.
 * Gained Skills: Lead Magnet, Email Marketing, Email Automation, MailChimp, Landing Page Design 
